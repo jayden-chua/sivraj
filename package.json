@@ -1,0 +1,15 @@
+{
+  "name": "sivraj",
+  "version": "0.0.1",
+  "description": "Toolbox to do everyday tasks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.5",
+    "electron-reload": "^1.2.5"
+  }
+}
